@@ -1,6 +1,6 @@
-name = "uvedtuv"
+name = "purple-sky-b0c7"
 main = "_worker.js"
-compatibility_date = "2026-09-08"
+compatibility_date = "2026-10-01"
 keep_vars = true
 
 [[kv_namespaces]]
